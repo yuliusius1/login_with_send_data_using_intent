@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas2_672019014</string>
+    <string name="fullname">FullName</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="conf_password">Confirm Password</string>
+    <string name="btn_register">Registration</string>
+    <string name="btn_login">Login</string>
+    <string name="regist_page">Registration Page</string>
+    <string name="login_page">Login Page</string>
+    <string name="txtWelcome">Welcome, %1$s</string>
+</resources>
